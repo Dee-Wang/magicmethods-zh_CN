@@ -1,5 +1,11 @@
-##A guide to Python's magic methods.##
-Written by Rafe Kettler in the year 2011.
+## Python 的神奇方法指南
+
+
+原文：[A Guide to Python's Magic Methods](http://www.rafekettler.com/magicmethods.html)
+
+作者：Rafe Kettler
+
+译文：[Python 的神奇方法指南](http://article.yeeyan.org/view/311527/287706)
 
 Licensed under Creative Commons CC--NC-BY-SA (see http://creativecommons.org/licenses/by-nc-sa/3.0/). Basically, noncommercial, requires attribution, must be reproduced with a similar license. 'Nuff said.
 
