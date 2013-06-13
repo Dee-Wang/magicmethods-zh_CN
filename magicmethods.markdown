@@ -1,26 +1,7 @@
-
 ## 简介
 
 有关 Python 内编写类的各种技巧和方法(构建和初始化、重载操作符、类描述、属性访问控制、自定义序列、反射机制、可调用对象、上下文管理、构建描述符对象、Pickling)。
 你可以把它当作一个教程，进阶，或者使用参考；我希望它能够成为一份针对 Python 方法的用户友好指南。
-
-## 内容目录
-
-1. [介绍](#intro)
-2. [构建和初始化](#construction)
-3. [使操作符在自定义类内工作](#operators)
-    * [神奇方法——比较](#comparisons)
-    * [神奇方法——数字](#numeric)
-4. [描述你的类](#representations)
-5. [属性访问控制](#access)
-6. [制作自定义序列](#sequence)
-7. [反射](#reflection)
-8. [可调用对象](#callable)
-9. [上下文管理](#context)
-10. [构建描述符对象](#descriptor)
-11. [Pickling 你的对象](#pickling)
-12. [总结](#conclusion)
-13. [附录：如何调用神奇方法](#appendix1)
 
 <a id="intro"></a>
 ## 1.介绍
