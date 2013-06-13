@@ -23,6 +23,6 @@ there, along with comments, (or even contributions!).
 8. [可调用对象](./magicmethods.markdown#8)
 9. [上下文管理](./magicmethods.markdown#9)
 10. [构建描述符对象](./magicmethods.markdown#10)
-11. [Pickling 你的对象](./magicmethods.markdown#11)
+11. [Pickling 你的对象](./magicmethods.markdown#11pickling-)
 12. [总结](./magicmethods.markdown#12)
 13. [附录：如何调用神奇方法](./magicmethods.markdown#13)
