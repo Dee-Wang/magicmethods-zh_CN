@@ -6,8 +6,8 @@ Copyright &copy; 2012 Rafe Kettler
 
 Version 1.17
 
-A PDF version of this guide can be obtained from [my site](http://www.rafekettler.com/magicmethods.pdf) or [Github](https://github.com/RafeKettler/magicmethods/raw/master/magicmethods.pdf). The magic methods guide has [a git repository at http://www.github.com/RafeKettler/magicmethods](http://www.github.com/RafeKettler/magicmethods). Any issues can be reported 
-there, along with comments, (or even contributions!).
+PDF 版本正在制作中。
+英文版可以从 [作者网站](http://www.rafekettler.com/magicmethods.pdf) 或者 [Github](https://github.com/justjavac/magicmethods-zh_CN/raw/master/magicmethods.pdf) 下载。
 
 **<a id="table" href="#table">目录</a>**
  
